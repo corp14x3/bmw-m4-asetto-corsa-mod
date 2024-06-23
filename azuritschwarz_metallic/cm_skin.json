@@ -1,0 +1,30 @@
+{
+  "calipers": {
+    "enabled": false,
+    "colors": [
+      "#1E54A7"
+    ]
+  },
+  "carPaint": {
+    "complex": false,
+    "reflection": 1.0,
+    "gloss": 1.0,
+    "specular": 1.0,
+    "color": "#FFFF0000",
+    "flakes": 1.0,
+    "enabled": true
+  },
+  "rims": {
+    "enabled": true,
+    "colors": [
+      "#000000",
+      "#5B5B5B"
+    ]
+  },
+  "roof": {
+    "enabled": true,
+    "colors": [
+      "#FF0000"
+    ]
+  }
+}
